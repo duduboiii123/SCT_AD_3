@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">SCT_AD_3</string>
+    <string name="app_title">Stopwatch</string>
+    <string name="app_subtitle">Track time with precision</string>
+
+    <string name="timer_default_value">00:00:00:000</string>
+
+    <string name="btn_start">Start</string>
+    <string name="btn_pause">Pause</string>
+    <string name="btn_resume">Resume</string>
+    <string name="btn_reset">Reset</string>
+
+    <string name="hint_format">Format: HH : MM : SS : MS</string>
+</resources>
